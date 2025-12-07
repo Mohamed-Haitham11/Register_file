@@ -14,5 +14,4 @@ end
   ra_out=register_file[ra];
  rb_out=register_file[rb];
 end
-
 endmodule
