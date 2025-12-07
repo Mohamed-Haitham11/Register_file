@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Faculty/Verification Diploma/Projects/test
+vreg_file
+!s110 1765094691
+!i10b 1
+!s100 4EC^6hoczG6UamALP18fV0
+I2E9OD4d?o4TIWVSYlFABJ3
+dD:/Faculty/Third year/Advanced Micro processor/verilog code/Register_file
+w1765094686
+8D:/Faculty/Third year/Advanced Micro processor/verilog code/Register_file/reg_file.v
+FD:/Faculty/Third year/Advanced Micro processor/verilog code/Register_file/reg_file.v
+!i122 2
+L0 1 18
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1765094691.000000
+!s107 D:/Faculty/Third year/Advanced Micro processor/verilog code/Register_file/reg_file.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Faculty/Third year/Advanced Micro processor/verilog code/Register_file/reg_file.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
